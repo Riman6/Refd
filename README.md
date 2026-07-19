@@ -154,9 +154,4 @@ Saudi Arabia
 
 2026
 
----
 
-## License
-
-This repository is provided for academic and portfolio presentation purposes only.
-All rights reserved.
